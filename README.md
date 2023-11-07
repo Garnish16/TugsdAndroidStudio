@@ -1,4 +1,4 @@
-## **Repositori ini dibuat untuk memenuhi penilaian tengah semester matakuliah pemrograman mobile**  
+## **Repositori ini dibuat untuk memenuhi tugas ujian tengah semester matakuliah pemrograman mobile**  
 Nama : GARNISH ANDHIKA PRATAMA  
 Nim : 312210161  
 Kelas : TI.22.B1  
