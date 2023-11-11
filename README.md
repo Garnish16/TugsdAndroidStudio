@@ -4,7 +4,7 @@ Nim : 312210161
 Kelas : TI.22.B1  
 Mata Kuliah : Pemrograman Mobile (TUGAS UTS) 
 **Tugas : Membuat tombol yang setiap diklik dapat bertambah angkanya, namun dengan urutan angka fibonacci, lalu lengkapi dengan fitur toast**  
-berikut adalah link video aplikasi yang di jalankan (dijalankan pada device menggunakan usb debugging) : [tonton video](https://www.youtube.com/shorts/Fj5d-t8HxHg)  
+berikut adalah link video aplikasi yang di jalankan (dijalankan pada device menggunakan usb debugging) : [tonton video](https://youtu.be/2y7-X1WSGzE)  
 <br>
 Source Code:  
 <?xml version="1.0" encoding="utf-8"?>
